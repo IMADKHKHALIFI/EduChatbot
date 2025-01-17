@@ -24,3 +24,32 @@ Welcome to **AI Mentor**, an intelligent educational platform designed to revolu
 ---
 
 ## 📂 Project Structure
+AI-Mentor/
+├── app.py # Main Streamlit application
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+├── assets/ # Images, logos, and other static files
+└── utils/ # Utility functions and helpers
+
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.8 or higher
+- Streamlit (`pip install streamlit`)
+- Gemini AI API key
+
+
+📞 Contact
+If you have any questions or feedback, feel free to reach out:
+
+Email: imad.khalyfy@gmail.com
+
+LinkedIn: IMAD EL KHELYFY
+
+Made with ❤️ by Your IMAD EL KHELYFY 
+✨ Empowering the next generation of AI and Data Science enthusiasts! ✨
+
+
